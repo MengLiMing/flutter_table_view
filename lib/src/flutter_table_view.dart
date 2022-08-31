@@ -1,5 +1,4 @@
-// ignore_for_file: public_member_api_docs, sort_constructors_first
-part of flutter_table_view;
+part of flutter_table_list_view;
 
 typedef TableViewItemBuilder = Widget Function(
     BuildContext context, IndexPath indexPath);

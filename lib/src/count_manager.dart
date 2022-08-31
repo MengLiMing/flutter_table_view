@@ -1,4 +1,4 @@
-part of flutter_table_view;
+part of flutter_table_list_view;
 
 class _TableViewCountManager extends ChangeNotifier
     implements ValueListenable<int> {

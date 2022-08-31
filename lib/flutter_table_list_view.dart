@@ -1,4 +1,4 @@
-library flutter_table_view;
+library flutter_table_list_view;
 
 import 'dart:math' as math;
 

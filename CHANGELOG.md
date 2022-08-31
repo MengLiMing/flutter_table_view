@@ -1,3 +1,7 @@
+## 0.0.2
+
+- TODO: add example
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+- TODO: use like UIKit - UITableView
